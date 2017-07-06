@@ -1,5 +1,9 @@
 # scipy_2017_notes
-Links and notes for SciPy 2017
+Links and notes for SciPy 2017.
+
+What to know what happed last year?
+
+- https://github.com/chendaniely/scipy_2016_notes
 
 Please help mainain the list! send a PR!
 
