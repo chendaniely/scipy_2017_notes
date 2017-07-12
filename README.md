@@ -79,6 +79,8 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - biopandas: https://github.com/rasbt/biopandas
 - figurefirst: http://flyranch.github.io/figurefirst/
 - synthpy (synthetic data in python): https://github.com/pambot/synthpy
+- PlasmaPy: https://github.com/PlasmaPy/PlasmaPy
+
 
 <hr>
 
