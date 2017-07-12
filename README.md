@@ -40,7 +40,12 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 ## 2017-07-12
 
 - Python + Tableau: Building an Interactive and Beautiful Data Visualization with TabPy
+    - Chloe Tseng
     - https://github.com/tableau/TabPy
+- bqplot - Seamless Interactive Visualizations in the Jupyter Notebook
+    - Dhruv Madeka
+    - https://github.com/dmadeka/SciPy2017
+    
 
 - [ChiantiPy][8]
 - [bqplot][10]
