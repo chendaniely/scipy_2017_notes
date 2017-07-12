@@ -50,7 +50,6 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
         - `out` dictionary, `_`, global variables
         - `Out['13']`
     - Persistent cell IDs
-        - 
 - bqplot - Seamless Interactive Visualizations in the Jupyter Notebook
     - Dhruv Madeka
     - https://github.com/dmadeka/SciPy2017
