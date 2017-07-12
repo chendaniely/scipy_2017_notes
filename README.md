@@ -78,6 +78,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - screenlamp (toolkit for facilitating hypothesis-driven, ligand-based screening of large molecule libraries): https://github.com/psa-lab/screenlamp
 - biopandas: https://github.com/rasbt/biopandas
 - figurefirst: http://flyranch.github.io/figurefirst/
+- synthpy (synthetic data in python): https://github.com/pambot/synthpy
 
 <hr>
 
