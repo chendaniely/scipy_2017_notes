@@ -81,6 +81,8 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - synthpy (synthetic data in python): https://github.com/pambot/synthpy
 - PlasmaPy: https://github.com/PlasmaPy/PlasmaPy
 - PyART, The Python ARM Radar Toolkit, Atmospheric Radiation Measurement (ARM) : http://arm-doe.github.io/pyart/
+- Computational Experiments Survey: http://survey.npimentel.net/en/
+
 
 <hr>
 
