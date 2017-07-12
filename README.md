@@ -70,6 +70,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - 	MatchPy: A Pattern Matching Library
     - Manuel Krebber, RWTH Aachen University
     - https://github.com/HPAC/matchpy
+    - slides: http://slides.com/wheerd/matchpy#/
 
 <hr>
 
