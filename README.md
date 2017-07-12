@@ -72,6 +72,9 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
     - https://github.com/HPAC/matchpy
     - slides: http://slides.com/wheerd/matchpy#/
 
+- Lightning talks
+    - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
+    
 <hr>
 
 - ChiantiPy
