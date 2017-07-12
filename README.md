@@ -67,6 +67,11 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
     - https://github.com/jhamrick/nbgrader
 - Berryconda : Scientific Python on the Raspberry Pi
     - https://github.com/jjhelmus/berryconda
+- 	MatchPy: A Pattern Matching Library
+    - Manuel Krebber, RWTH Aachen University
+    - https://github.com/HPAC/matchpy
+
+<hr>
 
 - ChiantiPy
     - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
