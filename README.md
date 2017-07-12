@@ -63,7 +63,8 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - bqplot - Seamless Interactive Visualizations in the Jupyter Notebook
     - Dhruv Madeka
     - https://github.com/dmadeka/SciPy2017
-    
+- Berryconda : Scientific Python on the Raspberry Pi
+    - https://github.com/jjhelmus/berryconda
 
 - ChiantiPy
     - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
