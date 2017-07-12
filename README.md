@@ -59,9 +59,11 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
     - https://github.com/dmadeka/SciPy2017
     
 
-- [ChiantiPy][8]
-- [bqplot][10]
-- [python packaging][11]
+- ChiantiPy
+    - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
+
+- python packaging
+    - https://github.com/python-packaging-tutorial/python-packaging-tutorial
 
 [1]: https://github.com/amueller/scipy-2017-sklearn
 [2]: https://github.com/tomkooij/scipy2017
@@ -72,6 +74,6 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 [7]: https://github.com/chendaniely/scipy-2017-tutorial-pandas
 [8]: https://github.com/LqNoob/scipy-2017-sklearn
 [9]: https://github.com/ioam/scipy-2017-holoviews-tutorial
-[10]: https://github.com/dmadeka/SciPy2017
-[11]: https://github.com/python-packaging-tutorial/python-packaging-tutorial
+[10]:
+[11]: 
 [12]: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2017
