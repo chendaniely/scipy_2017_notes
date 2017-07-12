@@ -74,7 +74,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 
 - Lightning talks
     - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
-    
+    - screenlamp (toolkit for facilitating hypothesis-driven, ligand-based screening of large molecule libraries): https://github.com/psa-lab/screenlamp
 <hr>
 
 - ChiantiPy
