@@ -42,6 +42,15 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - Python + Tableau: Building an Interactive and Beautiful Data Visualization with TabPy
     - Chloe Tseng
     - https://github.com/tableau/TabPy
+- Dataflow Notebooks: Encoding and Using Cell Dependencies
+    - David Koop
+    - https://github.com/dataflownb/dfkernel
+    - Working with notebook cells
+    - iterermediate results
+        - `out` dictionary, `_`, global variables
+        - `Out['13']`
+    - Persistent cell IDs
+        - 
 - bqplot - Seamless Interactive Visualizations in the Jupyter Notebook
     - Dhruv Madeka
     - https://github.com/dmadeka/SciPy2017
