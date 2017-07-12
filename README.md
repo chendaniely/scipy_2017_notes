@@ -84,7 +84,8 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - Computational Experiments Survey: http://survey.npimentel.net/en/
 - ipython-unittest: https://www.google.com/search?q=ipython+unit+test&ie=utf-8&oe=utf-8
 - burrito data: http://bit.ly/burritodata
-
+- burrito review: https://docs.google.com/forms/d/e/1FAIpQLSdWAkbSKzHydtzJ-AKHp_rXKHeG80cZuUBjyEeMAUZXJsiFKQ/viewform
+- burrito: https://github.com/srcole/burritos
 
 <hr>
 
