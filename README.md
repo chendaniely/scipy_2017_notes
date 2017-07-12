@@ -1,3 +1,9 @@
+1. [tutorials-day-1-2017-07-10](https://github.com/chendaniely/scipy_2017_notes#tutorials-day-1-2017-07-10)
+2. [tutorials-day-2-2017-07-11](https://github.com/chendaniely/scipy_2017_notes#tutorials-day-2-2017-07-11)
+3. [keynotes](https://github.com/chendaniely/scipy_2017_notes#keynotes)
+4. [talks](https://github.com/chendaniely/scipy_2017_notes#talks)
+    1. [2017-07-12](https://github.com/chendaniely/scipy_2017_notes#2017-07-12)
+
 # scipy_2017_notes
 Links and notes for SciPy 2017.
 
