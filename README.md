@@ -37,6 +37,11 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 
 # Talks
 
+## 2017-07-12
+
+- Python + Tableau: Building an Interactive and Beautiful Data Visualization with TabPy
+    - https://github.com/tableau/TabPy
+
 - [ChiantiPy][8]
 - [bqplot][10]
 - [python packaging][11]
