@@ -82,7 +82,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - PlasmaPy: https://github.com/PlasmaPy/PlasmaPy
 - PyART, The Python ARM Radar Toolkit, Atmospheric Radiation Measurement (ARM) : http://arm-doe.github.io/pyart/
 - Computational Experiments Survey: http://survey.npimentel.net/en/
-
+- ipython-unittest: https://www.google.com/search?q=ipython+unit+test&ie=utf-8&oe=utf-8
 
 <hr>
 
