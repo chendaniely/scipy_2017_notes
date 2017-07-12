@@ -35,6 +35,10 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - [Machine Learning with scikit-learn Part Two (Intermediate)][8]
 - Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)
 
+# Keynotes
+
+- https://github.com/katyhuff/2017-07-12-scipy
+
 # Talks
 
 ## 2017-07-12
