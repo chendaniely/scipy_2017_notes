@@ -3,7 +3,7 @@
 3. [keynotes](https://github.com/chendaniely/scipy_2017_notes#keynotes)
 4. [talks](https://github.com/chendaniely/scipy_2017_notes#talks)
     1. [2017-07-12](https://github.com/chendaniely/scipy_2017_notes#2017-07-12)
-
+5. [lign
 # scipy_2017_notes
 Links and notes for SciPy 2017.
 
@@ -72,9 +72,10 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
     - https://github.com/HPAC/matchpy
     - slides: http://slides.com/wheerd/matchpy#/
 
-- Lightning talks
-    - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
-    - screenlamp (toolkit for facilitating hypothesis-driven, ligand-based screening of large molecule libraries): https://github.com/psa-lab/screenlamp
+# Lightning talks
+- modeling simulation in python: http://greenteapress.com/wp/modsimpy/
+- screenlamp (toolkit for facilitating hypothesis-driven, ligand-based screening of large molecule libraries): https://github.com/psa-lab/screenlamp
+
 <hr>
 
 - ChiantiPy
