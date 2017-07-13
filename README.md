@@ -18,13 +18,13 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 
 # Tutorials Day 1 2017-07-10
 
-- Software Carpentry Scientific Python Course Part 1 (Beginner)
+- [Software Carpentry Scientific Python Course Part 1 (Beginner)][13]
 - [Cython for Data, Scientists, and Data Scientists (Intermediate/Advanced)][4]
 - [Numba: Tell Those C++ Bullies to Get Lost (Intermediate)][6]
 - [Automatic Code Generation with SymPy (Advanced)][3]
 - Modern Optimization Methods in Python (Intermediate/Advanced)
 - Software Carpentry Scientific Python Course Part 2 (Beginner)
-- Computational Statistics (Beginner)
+- [Computational Statistics (Beginner)][11]
 - [The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)][5]
 - [DF5 take 2: h5py & PyTables (Intermediate/Advanced)][2]
 - [Interactive Data Visualization with HoloViews & Bokeh (Advanced)][9]
@@ -36,7 +36,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - [Machine Learning with scikit-learn Part One (Intermediate)][1]
 - Parallelizing Scientific Python with Dask (Intermediate)
 - Parallel Data Analysis in Python (Intermediate)
-- Anatomy of Matplotlib (Beginner)
+- [Anatomy of Matplotlib (Beginner)][10]
 - scikit-image: Image Processing for Python (Intermediate)
 - Network Science and Statistics: Fundamentals and Applications (Intermediate)
 - [Machine Learning with scikit-learn Part Two (Intermediate)][8]
@@ -95,6 +95,12 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 - python packaging
     - https://github.com/python-packaging-tutorial/python-packaging-tutorial
 
+- Scientific Programming with the SciPy Stack
+    - https://github.com/scw/scipy-devsummit-2017-talk
+
+- Dashboards Visualizing Hundreds of Millions of Datapoints in 30 Lines of Python
+     - https://github.com/philippjfr/scipy-talk-2017
+
 [1]: https://github.com/amueller/scipy-2017-sklearn
 [2]: https://github.com/tomkooij/scipy2017
 [3]: https://github.com/sympy/scipy-2017-codegen-tutorial
@@ -104,6 +110,7 @@ Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 [7]: https://github.com/chendaniely/scipy-2017-tutorial-pandas
 [8]: https://github.com/LqNoob/scipy-2017-sklearn
 [9]: https://github.com/ioam/scipy-2017-holoviews-tutorial
-[10]:
-[11]: 
+[10]: https://github.com/WeatherGod/AnatomyOfMatplotlib
+[11]: https://github.com/AllenDowney/CompStats
 [12]: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2017
+[13]: https://github.com/maxim-belkin/2017-07-10-scipy
