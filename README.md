@@ -107,7 +107,11 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - Scientific MicroPython on Microcontrollers and IoT
     - Roberto Colistete Jr
     - https://github.com/micropython/micropython
-    
+- Efficient Array Computing in C++ with xtensor and Apache Arrow
+    - Johan Mabille
+    - Sylvian Corlau
+    - https://github.com/QuantStack/xtensor
+    - http://xtensor.readthedocs.io/en/latest/numpy.html
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
