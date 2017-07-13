@@ -79,6 +79,9 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 
 ## 2017-07-13
 
+- Composable Multiprocessing and Multithreading for Numeric Libraries
+    - Anton Malakhov, Anton Gorshkov, Terry Wilmarth
+    - https://github.com/IntelPython/smp
 - Dash - A New Framework for Buildin User Interfaces for Technical Computing
     - Chris Parmer
     - It's like Shiny for Python!
@@ -99,7 +102,8 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
     - http://jcrist.github.io/talks/profile_and_debug_dask/slides.html#/
     - https://github.com/jcrist/talks/tree/master/profile_and_debug_dask
     - https://github.com/dask/dask-glm
-
+- Introducing JOSS: The Journal of Open Source Software
+    - http://joss.theoj.org/
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
