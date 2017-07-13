@@ -40,7 +40,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - [Parallelizing Scientific Python with Dask (Intermediate)][14]
 - Parallel Data Analysis in Python (Intermediate)
 - [Anatomy of Matplotlib (Beginner)][10]
-- scikit-image: Image Processing for Python (Intermediate)
+- [scikit-image: Image Processing for Python (Intermediate)][15]
 - Network Science and Statistics: Fundamentals and Applications (Intermediate)
 - [Machine Learning with scikit-learn Part Two (Intermediate)][8]
 - Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)
@@ -157,3 +157,4 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 [12]: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2017
 [13]: https://github.com/maxim-belkin/2017-07-10-scipy
 [14]: https://github.com/dask/dask-tutorial/tree/scipy-2017
+[15]: https://github.com/scikit-image/skimage-tutorials
