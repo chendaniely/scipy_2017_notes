@@ -107,6 +107,11 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - Scientific MicroPython on Microcontrollers and IoT
     - Roberto Colistete Jr
     - https://github.com/micropython/micropython
+- Creating Reproducible Experiments with ReproZip
+    - Vicky Steeves (@VickySteeves)
+    - Rémi Rampin (@remram44)
+    - https://reprozip.org
+    - https://vickysteeves.gitlab.io/2017-SciPy/
 - Efficient Array Computing in C++ with xtensor and Apache Arrow
     - Johan Mabille
     - Sylvian Corlau
