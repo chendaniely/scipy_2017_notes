@@ -80,8 +80,14 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 
 - Dash - A New Framework for Buildin User Interfaces for Technical Computing
     - Chris Parmer
+    - It's like Shiny for Python!
     - https://github.com/plotly/dash
     - https://plot.ly/products/dash/
+    - http://flask.pocoo.org/
+    - https://facebook.github.io/react/
+    - 'widgets' are react components
+        - https://plot.ly/dash/plugins
+    - Learn react: https://academy.plot.ly/
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
