@@ -89,6 +89,11 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
     - 'widgets' are react components
         - https://plot.ly/dash/plugins
     - Learn react: https://academy.plot.ly/
+- Diversity and Inclusion at the SciPy Conference
+    - Julie Hollek
+    - https://github.com/jkru/scipy_diversity
+    - https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/
+    - http://www.laurenbacon.com/how-likely-is-an-all-male-speakers-list-statistically/
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
