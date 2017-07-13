@@ -3,6 +3,7 @@
 3. [keynotes](https://github.com/chendaniely/scipy_2017_notes#keynotes)
 4. [talks](https://github.com/chendaniely/scipy_2017_notes#talks)
     1. [2017-07-12](https://github.com/chendaniely/scipy_2017_notes#2017-07-12)
+    2. [2017-07-13](https://github.com/chendaniely/scipy_2017_notes/blob/master/README.md#2017-07-13)
 5. [lightning-talks](https://github.com/chendaniely/scipy_2017_notes#lightning-talks)
 
 # scipy_2017_notes
