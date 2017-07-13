@@ -133,6 +133,9 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - burrito: https://github.com/srcole/burritos
 
 - elegant scipy: https://github.com/elegant-scipy/elegant-scipy
+    - givaway: https://github.com/elegant-scipy/elegant-scipy/issues/308
+    - picking the 25 people script/gist: https://gist.github.com/stefanv/87c866f3bda2a1f1f2d23380cdf4dd9f
+    - html build copy: https://www.dropbox.com/s/cw49dk1gj6r389i/elegant-scipy-2017-07-13_15-18-54.zip?dl=0
 - cykdtree: http://cykdtree.readthedocs.io/en/latest/
 - cgal4py: http://cgal4py.readthedocs.io/en/latest/
 - hi toby: https://github.com/tobsecret
