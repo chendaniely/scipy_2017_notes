@@ -130,6 +130,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - elegant scipy: https://github.com/elegant-scipy/elegant-scipy
 - cykdtree: http://cykdtree.readthedocs.io/en/latest/
 - cgal4py: http://cgal4py.readthedocs.io/en/latest/
+- hi toby: https://github.com/tobsecret
 
 
 <hr>
