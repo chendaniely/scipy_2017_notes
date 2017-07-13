@@ -132,6 +132,11 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - cgal4py: http://cgal4py.readthedocs.io/en/latest/
 - hi toby: https://github.com/tobsecret
 - bokeh genome explorer: https://github.com/tobsecret/Bokeh_genome_explorer
+- tex2ipy (beamer to jupyter notebooks): https://github.com/prabhuramachandran/tex2ipy
+    - `tex2ipy talk.tex talk.ipynb`
+- ipyaml: https://github.com/prabhuramachandran/ipyaml
+    - https://github.com/aaren/notedown
+    - https://github.com/rossant/ipymd
 
 
 <hr>
