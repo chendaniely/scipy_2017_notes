@@ -75,6 +75,13 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
     - https://github.com/HPAC/matchpy
     - slides: http://slides.com/wheerd/matchpy#/
 
+## 2017-07-13
+
+- Dash - A New Framework for Buildin User Interfaces for Technical Computing
+    - Chris Parmer
+    - https://github.com/plotly/dash
+    - https://plot.ly/products/dash/
+
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
 - screenlamp (toolkit for facilitating hypothesis-driven, ligand-based screening of large molecule libraries): https://github.com/psa-lab/screenlamp
