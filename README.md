@@ -127,6 +127,8 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - burrito review: https://docs.google.com/forms/d/e/1FAIpQLSdWAkbSKzHydtzJ-AKHp_rXKHeG80cZuUBjyEeMAUZXJsiFKQ/viewform
 - burrito: https://github.com/srcole/burritos
 
+- elegant scipy: https://github.com/elegant-scipy/elegant-scipy
+
 <hr>
 
 - ChiantiPy
