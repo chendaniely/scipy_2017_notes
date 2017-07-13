@@ -16,6 +16,8 @@ Please help mainain the list! send a PR!
 
 Lists of tutorials: https://scipy2017.scipy.org/ehome/220975/493418/
 
+Proceedings: http://conference.scipy.org/proceedings/scipy2017/
+
 # Tutorials Day 1 2017-07-10
 
 - [Software Carpentry Scientific Python Course Part 1 (Beginner)][13]
