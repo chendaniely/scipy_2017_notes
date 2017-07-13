@@ -48,6 +48,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 # Keynotes
 
 - https://github.com/katyhuff/2017-07-12-scipy
+- https://www.slideshare.net/GaelVaroquaux/presentations
 
 # Talks
 
