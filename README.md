@@ -37,7 +37,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - [Introduction to Numerical Computing with NumPy (Beginner)][12]
 - [Pandas for Data Analysis (Beginner)][7]
 - [Machine Learning with scikit-learn Part One (Intermediate)][1]
-- Parallelizing Scientific Python with Dask (Intermediate)
+- [Parallelizing Scientific Python with Dask (Intermediate)][14]
 - Parallel Data Analysis in Python (Intermediate)
 - [Anatomy of Matplotlib (Beginner)][10]
 - scikit-image: Image Processing for Python (Intermediate)
@@ -136,3 +136,4 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 [11]: https://github.com/AllenDowney/CompStats
 [12]: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2017
 [13]: https://github.com/maxim-belkin/2017-07-10-scipy
+[14]: https://github.com/dask/dask-tutorial/tree/scipy-2017
