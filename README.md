@@ -25,7 +25,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - [Cython for Data, Scientists, and Data Scientists (Intermediate/Advanced)][4]
 - [Numba: Tell Those C++ Bullies to Get Lost (Intermediate)][6]
 - [Automatic Code Generation with SymPy (Advanced)][3]
-- Modern Optimization Methods in Python (Intermediate/Advanced)
+- [Modern Optimization Methods in Python (Intermediate/Advanced)][16]
 - Software Carpentry Scientific Python Course Part 2 (Beginner)
 - [Computational Statistics (Beginner)][11]
 - [The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)][5]
@@ -38,12 +38,12 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - [Pandas for Data Analysis (Beginner)][7]
 - [Machine Learning with scikit-learn Part One (Intermediate)][1]
 - [Parallelizing Scientific Python with Dask (Intermediate)][14]
-- Parallel Data Analysis in Python (Intermediate)
+- [Parallel Data Analysis in Python (Intermediate)][17]
 - [Anatomy of Matplotlib (Beginner)][10]
 - [scikit-image: Image Processing for Python (Intermediate)][15]
-- Network Science and Statistics: Fundamentals and Applications (Intermediate)
+- [Network Science and Statistics: Fundamentals and Applications (Intermediate)][18]
 - [Machine Learning with scikit-learn Part Two (Intermediate)][8]
-- Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)
+- [Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)][19]
 
 # Keynotes
 
@@ -185,3 +185,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 [13]: https://github.com/maxim-belkin/2017-07-10-scipy
 [14]: https://github.com/dask/dask-tutorial/tree/scipy-2017
 [15]: https://github.com/scikit-image/skimage-tutorials
+[16]: https://github.com/mmckerns/tutmom
+[17]: https://github.com/pydata/parallel-tutorial
+[18]: https://github.com/ericmjl/Network-Analysis-Made-Simple
+[19]: https://github.com/mwickert/SP-Comm-Tutorial-using-scikit-dsp-comm
