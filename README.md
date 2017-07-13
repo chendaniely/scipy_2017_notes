@@ -131,6 +131,7 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - cykdtree: http://cykdtree.readthedocs.io/en/latest/
 - cgal4py: http://cgal4py.readthedocs.io/en/latest/
 - hi toby: https://github.com/tobsecret
+- bokeh genome explorer: https://github.com/tobsecret/Bokeh_genome_explorer
 
 
 <hr>
