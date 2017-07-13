@@ -137,7 +137,16 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 - ipyaml: https://github.com/prabhuramachandran/ipyaml
     - https://github.com/aaren/notedown
     - https://github.com/rossant/ipymd
-
+- reproducible self-publishing: pythontex: https://github.com/gpoore/pythontex
+- vpython (navigable 3D displays and animations): http://vpython.org/
+    - Matt Craig - MSUM Physics and Astronomy
+    - http://www.glowscript.org/
+    - https://github.com/BruceSherwood/vpython-jupyter
+- Jupyter Lab: https://github.com/jupyterlab/jupyterlab
+    - Jason Grout: http://jasongrout.org/
+    - **clap clap**
+- Data Package manaer (data retriever): http://www.data-retriever.org/
+    - https://github.com/weecology/retriever
 
 <hr>
 
