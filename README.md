@@ -104,6 +104,10 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
     - https://github.com/dask/dask-glm
 - Introducing JOSS: The Journal of Open Source Software
     - http://joss.theoj.org/
+- Scientific MicroPython on Microcontrollers and IoT
+    - Roberto Colistete Jr
+    - https://github.com/micropython/micropython
+    
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
