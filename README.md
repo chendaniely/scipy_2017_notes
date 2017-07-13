@@ -94,6 +94,12 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
     - https://github.com/jkru/scipy_diversity
     - https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/
     - http://www.laurenbacon.com/how-likely-is-an-all-male-speakers-list-statistically/
+- Make it Work, Make it Right, Make it Fast - Debugging and Profiling in Dask
+    - James Crist
+    - http://jcrist.github.io/talks/profile_and_debug_dask/slides.html#/
+    - https://github.com/jcrist/talks/tree/master/profile_and_debug_dask
+    - https://github.com/dask/dask-glm
+
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
