@@ -4,6 +4,7 @@
 4. [talks](https://github.com/chendaniely/scipy_2017_notes#talks)
     1. [2017-07-12](https://github.com/chendaniely/scipy_2017_notes#2017-07-12)
     2. [2017-07-13](https://github.com/chendaniely/scipy_2017_notes/blob/master/README.md#2017-07-13)
+    2. [2017-07-14](https://github.com/chendaniely/scipy_2017_notes/blob/master/README.md#2017-07-14)
 5. [lightning-talks](https://github.com/chendaniely/scipy_2017_notes#lightning-talks)
 
 # scipy_2017_notes
@@ -129,6 +130,9 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
     - Sylvian Corlau
     - https://github.com/QuantStack/xtensor
     - http://xtensor.readthedocs.io/en/latest/numpy.html
+
+## 2017-07-14
+
 - Dask: Advanced Techniques
     - Matthew Rocklin
     - http://matthewrocklin.com/slides/scipy-2017.html#/
@@ -141,6 +145,14 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
     - https://speakerdeck.com/jakevdp/image-analysis-at-scale
     -Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads
         - https://arxiv.org/pdf/1612.02485.pdf
+- A Python API for Earth
+    - Sam Skillman
+    - http://descartes-labs-python.readthedocs.io/en/latest/
+    - https://www.descarteslabs.com/beta-application
+- NEXT: Machine Learning, Crowdsourcing, and Cartoons
+    - Scott Sievert
+    - https://speakerdeck.com/stsievert/scipy-2017-next
+    
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
