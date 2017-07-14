@@ -139,7 +139,8 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - Scientific Analysis at Scale: a Comparison of Five Systems
     - Jake VanderPlas
     - https://speakerdeck.com/jakevdp/image-analysis-at-scale
-    
+    -Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads
+        - https://arxiv.org/pdf/1612.02485.pdf
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
