@@ -152,7 +152,17 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - NEXT: Machine Learning, Crowdsourcing, and Cartoons
     - Scott Sievert
     - https://speakerdeck.com/stsievert/scipy-2017-next
-    
+- ChiantiPy
+    - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
+
+- python packaging
+    - https://github.com/python-packaging-tutorial/python-packaging-tutorial
+
+- Scientific Programming with the SciPy Stack
+    - https://github.com/scw/scipy-devsummit-2017-talk
+
+- Dashboards Visualizing Hundreds of Millions of Datapoints in 30 Lines of Python
+     - https://github.com/philippjfr/scipy-talk-2017
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
@@ -194,17 +204,6 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 
 <hr>
 
-- ChiantiPy
-    - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
-
-- python packaging
-    - https://github.com/python-packaging-tutorial/python-packaging-tutorial
-
-- Scientific Programming with the SciPy Stack
-    - https://github.com/scw/scipy-devsummit-2017-talk
-
-- Dashboards Visualizing Hundreds of Millions of Datapoints in 30 Lines of Python
-     - https://github.com/philippjfr/scipy-talk-2017
 
 [1]: https://github.com/amueller/scipy-2017-sklearn
 [2]: https://github.com/tomkooij/scipy2017
