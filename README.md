@@ -140,6 +140,8 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - Dask: Advanced Techniques
     - Matthew Rocklin
     - http://matthewrocklin.com/slides/scipy-2017.html#/
+    - https://www.youtube.com/watch?v=ZxNPVTHQwGo
+    - http://matthewrocklin.com/slides/scipy-2017.html#/
 - Terabytes at Your Fingertips: Interactive Big Data Coding with PySpark
     - Sam Penrose
     - https://github.com/SamPenrose/decision-tree-coding
@@ -206,9 +208,51 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - Data Package manaer (data retriever): http://www.data-retriever.org/
     - https://github.com/weecology/retriever
 - cpDetect (Bayesian change point detection): https://github.com/choderalab/cpdetect
-
-<hr>
-
+- BACnet: http://www.bacnet.org/
+    - https://github.com/BuildingRobotics/pybacnet
+    - http://bacpypes.sourceforge.net/
+- script all the things: https://goo.gl/AqQd9v
+- datalore
+    - https://www.jetbrains.com/products.html
+    - http://www.surveygizmo.com/s3/2911800/DataLore-Private-Beta-Sign-up
+- opsn source sustainability:
+    - https://www.numfocus.org/
+    - bit.ly/nf-sustainability
+- pep8speaks
+    - https://pep8speaks.com/
+    - https://github.com/OrkoHunter/pep8speaks
+    - http://tinryurl.com/pythonjokes
+- clover health
+    - https://www.cloverhealth.com/en/
+    - Associate Software Engineer Program
+    - https://www.cloverhealth.com/en/about-us/careers
+    - We miss you Matt: https://twitter.com/jiffyclub
+- RDP
+    - https://rdp.cme.msu.edu/
+    - https://github.com/bio-miga/miga
+    - http://enve-omics.ce.gatech.edu:3000/
+- ipython 6.0 6.1
+    - python 3 only
+    - upgrade `pip` and `setuptools`
+    - ending py2 compatibility: https://www.youtube.com/watch?v=2DkfPzWWC2Q
+    - https://github.com/Carreau/pycon2017
+ - gormless
+     - @dontusethiscode: https://twitter.com/dontusethiscode
+     - domain modelling
+- firefly
+    - https://github.com/Caltech-IPAC/firefly
+    - stargazer?
+    - ipywidgets.readthedocs.io
+    - firefly_widgets: https://github.com/Caltech-IPAC/firefly_widgets
+    - cookiecutter templates for jupyter widgets
+- Pwang
+    - mission accomplished
+    - open source won!
+    - 2010 talk: https://www.youtube.com/watch?v=fK6E9tq-KjM&feature=youtu.be
+- Pump up the Jams
+    - https://gist.github.com/bmcfee/ab75ca0f10d0a01d4fe67035d1e65990
+- Bus Factor: https://github.com/dpshelio/busfactor
+- Hack your inbox: https://docs.google.com/presentation/d/1EaoHUxg3VNDqDq6LBD8ayawUVGVwMKkJMn-7SSH5ujk/edit#slide=id.p
 
 [1]: https://github.com/amueller/scipy-2017-sklearn
 [2]: https://github.com/tomkooij/scipy2017
