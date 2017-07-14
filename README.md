@@ -132,6 +132,14 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - Dask: Advanced Techniques
     - Matthew Rocklin
     - http://matthewrocklin.com/slides/scipy-2017.html#/
+- Terabytes at Your Fingertips: Interactive Big Data Coding with PySpark
+    - Sam Penrose
+    - https://github.com/SamPenrose/decision-tree-coding
+    - www.sampenrose.net
+- Scientific Analysis at Scale: a Comparison of Five Systems
+    - Jake VanderPlas
+    - https://speakerdeck.com/jakevdp/image-analysis-at-scale
+    
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
