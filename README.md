@@ -129,6 +129,9 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
     - Sylvian Corlau
     - https://github.com/QuantStack/xtensor
     - http://xtensor.readthedocs.io/en/latest/numpy.html
+- Dask: Advanced Techniques
+    - Matthew Rocklin
+    - http://matthewrocklin.com/slides/scipy-2017.html#/
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
