@@ -23,8 +23,8 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 
 # Tutorials Day 1 2017-07-10
 
-| Tutorial Repository                                                                 | Video  |
-|-------------------------------------------------------------------------------------|---|
+| Tutorial Repository                                                                 | Video                                                                                                |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [Software Carpentry Scientific Python Course Part 1 (Beginner)][13]                 | [link](https://www.youtube.com/watch?v=7VO4pUGCcMI&index=4&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
 | [Cython for Data, Scientists, and Data Scientists (Intermediate/Advanced)][4]       | [link](https://www.youtube.com/watch?v=FepqwPI6U80&index=6&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
 | [Numba: Tell Those C++ Bullies to Get Lost (Intermediate)][6]                       | [link](https://www.youtube.com/watch?v=1AwG0T4gaO0&index=2&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
@@ -39,21 +39,24 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 
 # Tutorials Day 2 2017-07-11
 
-- [Introduction to Numerical Computing with NumPy (Beginner)][12]
-- [Pandas for Data Analysis (Beginner)][7]
-- [Machine Learning with scikit-learn Part One (Intermediate)][1]
-- [Parallelizing Scientific Python with Dask (Intermediate)][14]
-- [Parallel Data Analysis in Python (Intermediate)][17]
-- [Anatomy of Matplotlib (Beginner)][10]
-- [scikit-image: Image Processing for Python (Intermediate)][15]
-- [Network Science and Statistics: Fundamentals and Applications (Intermediate)][18]
-- [Machine Learning with scikit-learn Part Two (Intermediate)][8]
-- [Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)][19]
+| Tutorial Repository                                                                          | Video                                                                                                |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Introduction to Numerical Computing with NumPy (Beginner)][12]                              | [link]()
+| [Pandas for Data Analysis (Beginner)][7]                                                     | [link]()
+| [Machine Learning with scikit-learn Part One (Intermediate)][1]                              | [link]()
+| [Parallelizing Scientific Python with Dask (Intermediate)][14]                               | [link]()
+| [Parallel Data Analysis in Python (Intermediate)][17]                                        | [link]()
+| [Anatomy of Matplotlib (Beginner)][10]                                                       | [link]()
+| [scikit-image: Image Processing for Python (Intermediate)][15]                               | [link]()
+| [Network Science and Statistics: Fundamentals and Applications (Intermediate)][18]           | [link]()
+| [Machine Learning with scikit-learn Part Two (Intermediate)][8]                              | [link]()
+| [Signal Processing and Communications Hands-On Using scikit-dsp-comm (Intermediate)][19]     | [link]()
 
 # Keynotes
 
 - https://github.com/katyhuff/2017-07-12-scipy
 - https://www.slideshare.net/GaelVaroquaux/presentations
+-
 
 # Talks
 
