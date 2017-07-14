@@ -84,6 +84,10 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
     - Manuel Krebber, RWTH Aachen University
     - https://github.com/HPAC/matchpy
     - slides: http://slides.com/wheerd/matchpy#/
+- MNE to see the brain at a millisecond time scale
+    - Alex Gramfort
+    - https://github.com/agramfort/mne_scipy2017
+    - https://www.slideshare.net/agramfort/mne-scipy-conference-2017
 
 ## 2017-07-13
 
