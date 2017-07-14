@@ -205,6 +205,7 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
     - **clap clap**
 - Data Package manaer (data retriever): http://www.data-retriever.org/
     - https://github.com/weecology/retriever
+- cpDetect (Bayesian change point detection): https://github.com/choderalab/cpdetect
 
 <hr>
 
