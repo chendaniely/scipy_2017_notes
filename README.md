@@ -22,6 +22,10 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 
 Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf
 
+# BoFs
+
+-  jupyter widget bof: https://gist.github.com/mwcraig/176560759e889a3635cbaaa1fdef8bbc
+
 # Tutorials Day 1 2017-07-10
 
 | Tutorial Repository                                                                 | Video                                                                                                |
