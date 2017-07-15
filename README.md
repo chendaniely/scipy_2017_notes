@@ -26,6 +26,10 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 
 -  jupyter widget bof: https://gist.github.com/mwcraig/176560759e889a3635cbaaa1fdef8bbc
 
+# Sprints
+
+bit.ly/sprints2017
+
 # Tutorials Day 1 2017-07-10
 
 | Tutorial Repository                                                                 | Video                                                                                                |
