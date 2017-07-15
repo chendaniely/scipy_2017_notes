@@ -174,6 +174,12 @@ bit.ly/sprints2017
 
 - Dashboards Visualizing Hundreds of Millions of Datapoints in 30 Lines of Python
      - https://github.com/philippjfr/scipy-talk-2017
+     
+- Stingray : A Library of Time series methods for X-Ray Astronomy
+    - Himanshu Mishra ([@OrkoHunter](https://github.com/orkohunter))
+    - [Slides](https://docs.google.com/presentation/d/1XUAY3TQG_qAvdOyFvZoEc_sAxzEeXvoeoXpXwKy1ZhU)
+    - [Talk](https://www.youtube.com/watch?v=7tcJi378B2M)
+    - [Slack](http://slack-invite.timelabtechnologies.com)
 
 # Lightning talks
 - modeling simulation in python: http://greenteapress.com/wp/modsimpy/
