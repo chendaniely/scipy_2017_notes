@@ -225,7 +225,7 @@ bit.ly/sprints2017
 - pep8speaks
     - https://pep8speaks.com/
     - https://github.com/OrkoHunter/pep8speaks
-    - http://tinryurl.com/pythonjokes
+    - http://tinyurl.com/pythonjokes
 - clover health
     - https://www.cloverhealth.com/en/
     - Associate Software Engineer Program
