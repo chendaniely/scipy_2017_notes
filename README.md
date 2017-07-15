@@ -34,7 +34,7 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 | [Cython for Data, Scientists, and Data Scientists (Intermediate/Advanced)][4]       | [link](https://www.youtube.com/watch?v=FepqwPI6U80&index=6&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
 | [Numba: Tell Those C++ Bullies to Get Lost (Intermediate)][6]                       | [link](https://www.youtube.com/watch?v=1AwG0T4gaO0&index=2&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
 | [Automatic Code Generation with SymPy (Advanced)][3]                                | [link](https://www.youtube.com/watch?v=5jzIVp6bTy0&index=5&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
-| [Modern Optimization Methods in Python (Intermediate/Advanced)][16]                 |   |
+| [Modern Optimization Methods in  (Intermediate/Advanced)][16]                 |   |
 | Software Carpentry Scientific Python Course Part 2 (Beginner)                       |   |
 | [Computational Statistics (Beginner)][11]                                           | [link](https://www.youtube.com/watch?v=He9MCbs1wgE&index=1&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
 | [The Jupyter Interactive Widget Ecosystem (Intermediate/Advanced)][5]               | [link](https://www.youtube.com/watch?v=eWzY2nGfkXk&index=3&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)  |
@@ -221,7 +221,7 @@ Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5
 - pep8speaks
     - https://pep8speaks.com/
     - https://github.com/OrkoHunter/pep8speaks
-    - http://tinryurl.com/pythonjokes
+    - http://tinyurl.com/pythonjokes
 - clover health
     - https://www.cloverhealth.com/en/
     - Associate Software Engineer Program
