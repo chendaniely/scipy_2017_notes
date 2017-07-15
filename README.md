@@ -65,6 +65,7 @@ bit.ly/sprints2017
 
 - https://github.com/katyhuff/2017-07-12-scipy
 - https://www.slideshare.net/GaelVaroquaux/presentations
+    - https://www.slideshare.net/GaelVaroquaux/coding-for-science-and-innovation
 -
 
 # Talks
