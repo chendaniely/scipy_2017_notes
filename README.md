@@ -22,6 +22,8 @@ Proceedings: http://conference.scipy.org/proceedings/scipy2017/
 
 Videos of talks and tutorials: https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf
 
+JOSS (Journal of Open Source Software) Slides: https://doi.org/10.6084/m9.figshare.5208151
+
 # BoFs
 
 -  jupyter widget bof: https://gist.github.com/mwcraig/176560759e889a3635cbaaa1fdef8bbc
