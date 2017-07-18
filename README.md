@@ -98,6 +98,11 @@ bit.ly/sprints2017
     - Alex Gramfort
     - https://github.com/agramfort/mne_scipy2017
     - https://www.slideshare.net/agramfort/mne-scipy-conference-2017
+- pulse2percept: A Python-based simulation framework for bionic vision
+    - Michael Beyeler, University of Washington
+    - https://github.com/uwescience/pulse2percept
+    - slides: https://figshare.com/articles/pulse2percept_A_Python-based_simulation_framework_for_bionic_vision/5198575
+    
 
 ## 2017-07-13
 
