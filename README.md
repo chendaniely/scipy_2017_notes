@@ -146,6 +146,13 @@ bit.ly/sprints2017
     - Sylvian Corlau
     - https://github.com/QuantStack/xtensor
     - http://xtensor.readthedocs.io/en/latest/numpy.html
+-  Predicting Phenotype from Genotype with Machine Learning, in the Biology, Biophysics and Biostatistics  mini-symposium
+    - Patricia Francis-Lyon
+    - Shraddha Lanka
+    - Lakshmi Navin Arbatti
+    - Gaurika Tyagi
+    - Hun do
+    - https://www.slideshare.net/patriciafrancislyon/predicting-phenotype-from-genotype-with-machine-learning
 
 ## 2017-07-14
 
