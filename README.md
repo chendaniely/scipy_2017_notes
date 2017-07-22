@@ -178,7 +178,8 @@ bit.ly/sprints2017
     - Scott Sievert
     - https://speakerdeck.com/stsievert/scipy-2017-next
 - ChiantiPy
-    - https://github.com/wtbarnes/chiantipy-talk-scipy-2017
+    - Source: https://github.com/wtbarnes/chiantipy-talk-scipy-2017
+    - Slides: https://wtbarnes.github.io/chiantipy-talk-scipy-2017/
 
 - python packaging
     - https://github.com/python-packaging-tutorial/python-packaging-tutorial
